@@ -7,10 +7,10 @@
 
 Home Page
 
-![UI](https://github.com/vaibhavdpatil/UI_Desing/blob/main/UI.png)
+![HomePage](https://github.com/vaibhavdpatil/Online_ticket_reservation/blob/main/ticket_reservation/ss/HomePage.JPG)
 
 
 Reservation Page
 
-![UI](https://github.com/vaibhavdpatil/UI_Desing/blob/main/UI.png)
+![ReservationPage](https://github.com/vaibhavdpatil/Online_ticket_reservation/blob/main/ticket_reservation/ss/ReservationPage.JPG)
 
