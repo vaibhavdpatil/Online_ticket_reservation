@@ -117,13 +117,13 @@
             
 <li><a href="#home" class="page-scroll"><h3>Home</h3></a></li>
             
-<li><a href="#two" class="page-scroll"><h3>About</h3></a></li>
+<li><a href="#one" class="page-scroll"><h3>About</h3></a></li>
                                    
-<li><a href="#one" class="page-scroll"><h3>Inspiration</h3></a></li>
+<li><a href="#four" class="page-scroll"><h3>Inspiration</h3></a></li>
                                  
-<li><a href="#three" class="page-scroll"><h3>Services</h3></a></li>
+<li><a href="#seven" class="page-scroll"><h3>Services</h3></a></li>
             
-<li><a href="#four" class="page-scroll"><h3>Contact</h3></a></li>
+<li><a href="#eight" class="page-scroll"><h3>Contact</h3></a></li>
 
 <li><a href="admin/" class="page-scroll"><h3>Login</h3></a></li>
           
