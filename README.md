@@ -2,4 +2,4 @@
 # UI_Desine
 
 
-![WEBSITE Demo.mp4](https://github.com/vaibhavdpatil/Online_ticket_reservation/blob/main/WEBSITE%20Demo.mp4)
+![WEBSITE Demo.gif](https://github.com/vaibhavdpatil/Online_ticket_reservation/blob/main/WEBSITE Demo.gif)
